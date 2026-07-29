@@ -1,0 +1,10 @@
+.git
+.gitignore
+.env
+.env.*
+.env_*
+server.txt
+deploy/
+README.md
+compose.yml
+Dockerfile
